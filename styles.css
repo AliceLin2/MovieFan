@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 1rem;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 0.5rem;
+  width: 100%;
+  color: black;
+  background-color: rgb(47, 248, 255);
+  text-align: center;
+}
+
+#movie-list{
+  display: flex;
+  overflow-x: auto;
+  margin: 1rem 0;
+  max-width: calc(100vw - 2rem);
+}
+
+#movie-detail > *{
+  margin-top: 25px
+}
+
+#movie-list img {
+  flex: 0 1 auto;
+  height: 200px;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+#movie-category, #search-form > * {
+  display: block;
+  margin-right: 20px
+}
+
+.detail-image {
+  height: 350px;
+}
+
+.detail-parts {
+  display: inline-block;
+  vertical-align:middle;
+  height: 350px
+}
+
+.detail-description > * {
+  margin-top: 20px
+}
+
+.detail-description{
+  width: 70%;
+  margin-left: 30px;
+}
+
+.activated-heart {
+  color: red;
+}
+
+form#search-form {
+  margin: 1rem 0;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+form#comment-movie {
+  margin: 1rem 0;
+  width: 1200px;
+  height: 50px;
+  flex-direction: row;
+}
+
+form#comment-movie > * {
+  margin: 5px;
+}
+
+input#rating{
+  width: 200px;
+}
+
+textarea#comment{
+  width: 200px;
+  font-size: 1rem;
+  border: 1px solid black;
+  background-color: white;
+  padding: 0.5rem;
+}
+
+input{
+  font-size: 1rem;
+  border: 1px solid black;
+  background-color: white;
+  padding: 0.5rem;
+  margin: 0.25rem 0;
+  width: 100%;
+}
+
+input[type="submit"] {
+  color: white;
+  border: 1px solid white;
+  background-color: black;
+  cursor: pointer;
+  transition: all 0.3s;
+  width:100px;
+}
+
+input[type="submit"]:active {
+  background-color: gray;
+}
+
+#back, #forward {
+  width: 100px;
+  height: 30px;
+  color: white;
+  background-color: black;
+  display: inline-block;
+  margin-top: 20px;
+}

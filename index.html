@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Movie Fan</title>
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <script defer type="text/javascript" src="./src/index.js"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Movie Fan</h1>
+  </header>
+  <h2><u>My collections</u></h2>
+  <div id="movie-list">
+    <!-- Movie Images Here -->
+  </div>
+
+  <div class="container">
+    <form id="search-form">
+      <!-- Search movie by keyword -->
+      <label for="keyword">Keyword Search: </label>
+      <input type="text" name="keyword" id="keyword" />
+      <input type="submit" value="Search" />
+    </form>
+
+    <form id="movie-category">
+      <!-- Display movie by categories -->
+      <h2>Movie categories</h2>
+      <select id="categories" name="categories">
+        <option value=28>Action</option>
+        <option value=35>Comedy</option>
+        <option value=80>Crime</option>
+        <option value=27>Horror</option>
+        <option value=10749>Romance</option>
+        <option value=878>Science Fiction</option>
+      </select>
+    </form>
+  </div>
+
+  <div class="container">
+    <div id="movie-detail" style="display: block;">
+      <!-- Display movie by detail -->
+    </div>
+  </div>
+
+<div id='control-button' style='display: block;'>
+  <button id="back">Last Page</button>
+  <button id="forward">Next Page</button>
+</div>
+
+</body>
+
+</html>

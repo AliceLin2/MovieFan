@@ -1,0 +1,228 @@
+{
+  "movies": [
+    {
+      "title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "src": "https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "rating": "9",
+      "comment": "One of the favorites",
+      "id": 6
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "src": "https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+      "rating": "9",
+      "comment": "One of my favorites",
+      "id": 7
+    },
+    {
+      "title": "The Blind Side",
+      "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+      "src": "https://image.tmdb.org/t/p/original/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+      "rating": "8",
+      "comment": "very inspiring",
+      "id": 8
+    },
+    {
+      "title": "The Proposal",
+      "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+      "src": "https://image.tmdb.org/t/p/original/3llEDAKXexgVpSqiK17BS4wtJhC.jpg",
+      "rating": "6",
+      "comment": "funny movie",
+      "id": 11
+    },
+    {
+      "title": "Daddy's Home 2",
+      "overview": "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+      "src": "https://image.tmdb.org/t/p/original/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 13
+    },
+    {
+      "title": "House of Gucci",
+      "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately…murder.",
+      "src": "https://image.tmdb.org/t/p/original/cy6fvTf9YqehVhReYnm5cc3GqhZ.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 14
+    },
+    {
+      "title": "The Fate of the Furious",
+      "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+      "src": "https://image.tmdb.org/t/p/original/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+      "rating": "7",
+      "comment": "",
+      "id": 15
+    },
+    {
+      "title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "src": "https://image.tmdb.org/t/p/original/eEslKSwcqmiNS6va24Pbxf2UKmJ.jpg",
+      "rating": "8",
+      "comment": "One of the classic",
+      "id": 16
+    },
+    {
+      "title": "17 Again",
+      "overview": "On the brink of a midlife crisis, 30-something Mike O'Donnell wishes he could have a \"do-over.\" And that's exactly what he gets when he wakes up one morning to find he's 17 years old again. With his adult mind stuck inside the body of a teenager, Mike actually has the chance to reverse some decisions he wishes he'd never made. But maybe they weren't so bad after all.",
+      "src": "https://image.tmdb.org/t/p/original/wqE9b0bdZsubI82zdX1ykLfPajh.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 17
+    },
+    {
+      "title": "Parasite",
+      "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "src": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "rating": "8",
+      "comment": "nice movie",
+      "id": 18
+    },
+    {
+      "title": "No Time to Die",
+      "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "src": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 19
+    },
+    {
+      "title": "Flipped",
+      "overview": "When Juli meets Bryce in the second grade, she knows it's true love. After spending six years trying to convince Bryce the same, she's ready to give up - until he starts to reconsider.",
+      "src": "https://image.tmdb.org/t/p/original/6zDYFigohwncqFL00MKbFV01dWb.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 20
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "src": "https://image.tmdb.org/t/p/original/4O5XrcJuTIlMiDM6VO7VqPUIh1t.jpg",
+      "rating": "6",
+      "comment": "",
+      "id": 21
+    },
+    {
+      "title": "Joker",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "src": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 22
+    },
+    {
+      "title": "The Dark Knight",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "src": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "rating": "9",
+      "comment": "",
+      "id": 23
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas eve.",
+      "src": "https://image.tmdb.org/t/p/original/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "rating": "6",
+      "comment": "",
+      "id": 24
+    },
+    {
+      "title": "The Devil Wears Prada",
+      "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+      "src": "https://image.tmdb.org/t/p/original/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "rating": "6",
+      "comment": "",
+      "id": 25
+    },
+    {
+      "title": "Stillwater",
+      "overview": "Bill Baker, an American oil-rig roughneck from Oklahoma, travels to Marseille to visit his estranged daughter, Allison, who is in prison for a murder she claims she did not commit. Confronted with language barriers, cultural differences, and a complicated legal system, Bill builds a new life for himself in France as he makes it his personal mission to exonerate his daughter.",
+      "src": "https://image.tmdb.org/t/p/original/cPdmPwcIcmu0ugfKcdFtI3vmOJq.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 26
+    },
+    {
+      "title": "Avatar",
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "src": "https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "rating": "8",
+      "comment": "",
+      "id": 27
+    },
+    {
+      "title": "Step Up 2: The Streets",
+      "overview": "When rebellious street dancer Andie lands at the elite Maryland School of the Arts, she finds herself fighting to fit in while also trying to hold onto her old life. When she joins forces with the schools hottest dancer, Chase, to form a crew of classmate outcasts to compete in Baltimore s underground dance battle The Streets.",
+      "src": "https://image.tmdb.org/t/p/original/wGCRkvgoVRML29w2XWOdRbMJh5Q.jpg",
+      "rating": "5",
+      "comment": "",
+      "id": 28
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+      "src": "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 30
+    },
+    {
+      "title": "Black Widow",
+      "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "src": "https://image.tmdb.org/t/p/original/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "rating": "6",
+      "comment": "",
+      "id": 32
+    },
+    {
+      "title": "The Avengers",
+      "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "src": "https://image.tmdb.org/t/p/original/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "rating": "7",
+      "comment": "",
+      "id": 33
+    },
+    {
+      "title": "Tom & Jerry",
+      "overview": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+      "src": "https://image.tmdb.org/t/p/original/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg",
+      "rating": "5",
+      "comment": "test",
+      "id": 34
+    },
+    {
+      "title": "Se7en",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "src": "https://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "rating": "8",
+      "comment": "",
+      "id": 35
+    },
+    {
+      "title": "Fight Club",
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "src": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "rating": "7",
+      "comment": "",
+      "id": 39
+    },
+    {
+      "title": "Catch Me If You Can",
+      "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+      "src": "https://image.tmdb.org/t/p/original/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "rating": "8",
+      "comment": "",
+      "id": 41
+    },
+    {
+      "title": "Inception",
+      "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "src": "https://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "rating": "8",
+      "comment": "good movie",
+      "id": 43
+    }
+  ]
+}
