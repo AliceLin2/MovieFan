@@ -1,10 +1,10 @@
 # phase-1-final-project
 Overview
 
-    Movie Fan is an APP using REST api to fetch movie details from The Movie Database. In the app, users could collect the movie they like and save in APP's server for future reference. Users could also rate the movie and give their own comments about the movie and save them.
+    Movie Fan is an APP in which users could find tons of movie information and could collect any movies they find interesting. For the movies they would like to collect, users could also give the movie a raing and some comments. Those ratings and comments would be stored together with other details regarding that movie in the server. 
 
 Usage
-
+       
     1. register for an API key to "The Movie Database"
 
     2. const apiKey = "Your API key from step 1", save this variable in the top of index.js file

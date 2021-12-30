@@ -1,4 +1,4 @@
-// write your code here
+// These two variables were taken from phase-1-building-simple-liker lab
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
@@ -198,7 +198,7 @@ document.addEventListener('DOMContentLoaded',()=>{
         fetch('http://localhost:3000/movies')
         .then(res=>res.json())
         .then(data=>{
-            Array.from(data).forEach(movie=>{
+            data.forEach(movie=>{
                 createMovieList(movie)
             })
         })
